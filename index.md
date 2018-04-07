@@ -1,5 +1,7 @@
 ## Changing the world, one piece at a time
 
+![alt text](https://lightroom.adobe.com/v2c/spaces/8d3d85bb0d30462c8634a4fc81b126b2/assets/29bc06d519b84b0e8bcc0574c8985daf/revisions/8319ef3800a94cbe90fb6b84314750bf/renditions/0712cd338ba9c0cf4b14d9ca35815e77 "Aparna")
+
 Blockchain Fundamentals select courses: 
 
 <a href="https://youtu.be/Dcyb3Db5Ny4" target="_blank"> Cryptoeconomics </a>
