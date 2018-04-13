@@ -15,6 +15,12 @@
 
 <a href="https://docs.google.com/presentation/d/160p8z4UmN6XQwMrJNr1wEVrTNqt6Wcvu4SfXHP-1nnY/edit?ts=59f070a8#slide=id.g28ea9f4470_1_40" target="_blank"> Hack Ethereal White Paper </a> (we placed 2nd) 
 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
 
 
 
